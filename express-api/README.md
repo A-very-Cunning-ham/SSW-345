@@ -1,0 +1,3 @@
+# Node.js Application Lab
+
+In this lab several methods of creating REST APIs in Node.js were explored. First, a simple server, `hello-server.js`, was created to log when connections were made to localhost. Then, an express server was created to demonstrate various HTTP methods and show how routes and parameters can be created. The `mysql` module was also used to fetch information from a remote server to provide information to users when certain requests were made. Overall, I found this lab to be a simple but interesting introduction to APIs and mysql in Node.js
